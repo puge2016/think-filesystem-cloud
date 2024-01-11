@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "^7.8",
-        "overtrue/flysystem-qiniu": "^3.2",
+        "overtrue/flysystem-qiniu": "^2.0",
         "overtrue/flysystem-cos": "^5.1",
         "iidestiny/flysystem-oss": "^4.3"
     },
