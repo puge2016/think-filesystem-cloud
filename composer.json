@@ -1,20 +1,20 @@
 {
-    "name": "jaguarjack/think-filesystem-cloud",
+    "name": "puge2016/think-filesystem-cloud",
     "description": "cloud filesystem for thinkphp6.0",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "jaguarjack",
-            "email": "njphper@gmail.com"
+            "name": "puge2016",
+            "email": "839427653@qq.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "guzzlehttp/guzzle": "^7.0",
-        "overtrue/flysystem-qiniu": "^1.0",
-        "overtrue/flysystem-cos": "^2.0",
-        "iidestiny/flysystem-oss": "^2.5"
+        "guzzlehttp/guzzle": "^7.8",
+        "overtrue/flysystem-qiniu": "^3.2",
+        "overtrue/flysystem-cos": "^5.1",
+        "iidestiny/flysystem-oss": "^4.3"
     },
     "autoload": {
         "psr-4": {
